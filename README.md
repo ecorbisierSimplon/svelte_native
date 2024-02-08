@@ -132,4 +132,4 @@ ns preview ios
 
 #### **_Application Nativescript Preview_**
 
-<a href="https://preview.nativescript.org/android" target="a_blank"><img src="android.svg" style="height:50px"></a><a href="https://preview.nativescript.org/ios" target="a_blank"><img src="apple.svg" style="height:50px"></a>
+<a href="https://preview.nativescript.org/android" target="a_blank"><img src="./.vscode/android.svg" style="height:50px"></a><a href="https://preview.nativescript.org/ios" target="a_blank"><img src="./.vscode/apple.svg" style="height:50px"></a>
